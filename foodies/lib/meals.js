@@ -43,7 +43,7 @@ export async function saveMeal(meal){
             @summary,
             @instructions,
             @creator,
-            @creator_email
+            @creator_email,
             @image,
             @slug
         )
